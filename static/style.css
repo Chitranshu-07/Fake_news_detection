@@ -1,0 +1,19 @@
+body {
+    background: #f4f7fa;
+}
+
+.card {
+    border-radius: 15px;
+    background: white;
+}
+
+textarea {
+    resize: none;
+    font-size: 16px;
+}
+
+.alert-info {
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
